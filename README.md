@@ -19,3 +19,5 @@ https://builtin.com/software-engineering-perspectives/javascript-design-patterns
 https://www.digitalocean.com/community/tutorial_series/javascript-design-patterns
 
 https://www.lambdatest.com/blog/comprehensive-guide-to-javascript-design-patterns/
+
+https://www.tutorialspoint.com/design_pattern/design_pattern_overview.htm
